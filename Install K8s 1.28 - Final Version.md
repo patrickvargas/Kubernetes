@@ -1,4 +1,4 @@
-### ALL:
+### ALL VM`s:
 Rename VMs
 k8s-cp01
 k8s-n01
